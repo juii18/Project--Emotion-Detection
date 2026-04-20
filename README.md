@@ -1,4 +1,3 @@
-# Project--Emotion-Detection
 # Face Emotion Detection System
 
 ## 📌 Description
